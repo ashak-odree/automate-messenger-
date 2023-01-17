@@ -12,8 +12,8 @@ Go to your terminal type <pip install pyautogui> press enter it will be install 
 - Then, ensure that your cursor is on the messenger window.
 
 
-Contributing
+# Contributing
 If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-License
+#cLicense
 This project is licensed under the MIT License - see the LICENSE.md file for details.
